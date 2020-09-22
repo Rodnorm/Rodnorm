@@ -1,7 +1,10 @@
 ### Rodrigo Normando 🤖
 
 
-##### Frontend Developer `:computer:`
+
+##### Frontend Developer  ⌨️
+
+
 
 React ✔️
 Angular✔️
