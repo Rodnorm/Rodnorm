@@ -1,4 +1,4 @@
-### Rodrigo Normando 👋
+### Rodrigo Normando 🤖
 
 <!--
 **Rodnorm/Rodnorm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+##### Frontend Developer `:computer:`
+
+React ✔️
+Angular✔️
+Vue ✔️
+
+
+
 🔭 Currently based in Essen, Germany
 
+☕️ I’m also getting back to backend development with Java
 
-
-Frontend Developer
-
-🌱 I’m currently learning
