@@ -14,7 +14,7 @@ Vue ✔️
 
 ☕️ I’m also getting back to backend development with Java
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rodnorm&count_private=true&show_icons=true&theme=radical&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodnorm)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
