@@ -1,6 +1,6 @@
 # Hey, I'm Rodrigo 👋
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Rodnorm&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=gruvbox)](https://github-stats-extended.vercel.app/api?username=Rodnorm&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=gruvbox)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=rodnorm&rank_icon=github&show_icons=true&include_all_commits=true&theme=gruvbox)](https://github.com/stats-organization/github-stats-extended)
 
 I'm a **Senior Frontend Developer** based in Essen, Germany, building accessible web applications and moving deeper into **AI Engineering**.
 
