@@ -1,5 +1,7 @@
 # Hey, I'm Rodrigo 👋
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Rodnorm&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=gruvbox)](https://github-stats-extended.vercel.app/api?username=Rodnorm&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=gruvbox)
+
 I'm a **Senior Frontend Developer** based in Essen, Germany, building accessible web applications and moving deeper into **AI Engineering**.
 
 I have spent most of my career working with Angular, React, TypeScript, design systems, testing, and accessibility. These days, I am expanding that experience into end-to-end AI products with Python, FastAPI, Next.js, and Azure AI.
