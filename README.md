@@ -2,42 +2,54 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=rodnorm&rank_icon=github&show_icons=true&include_all_commits=true&theme=gruvbox)](https://github.com/stats-organization/github-stats-extended)
 
-I'm a **Senior Frontend Developer** based in Essen, Germany, building accessible web applications and moving deeper into **AI Engineering**.
+I'm a **Senior Software & AI Platform Engineer** based in Essen, Germany.
 
-I have spent most of my career working with Angular, React, TypeScript, design systems, testing, and accessibility. These days, I am expanding that experience into end-to-end AI products with Python, FastAPI, Next.js, and Azure AI.
+With a solid background in enterprise frontend architecture (Angular, React, Next.js, accessibility, and design systems), I specialize in building **reliable, full-stack AI applications and platform backends** using **Python, FastAPI, Pydantic, and modern LLM orchestration**.
+
+My focus bridges intuitive user experience with **enterprise-grade AI governance**: building resilient systems with cryptographic auditability, strict data privacy, and Human-in-the-Loop oversight.
+
+---
+
+## 🚀 The AI Engineering Roadmap
+
+I'm building an end-to-end suite of practical AI applications, moving from multimodal perception and structured outputs to RAG, autonomous agents, and enterprise workflows:
+
+| App | Name & Link | Core Capabilities & Stack |
+|---|---|---|
+| **01** | 🔍 **[Smart Inspector](https://inspector.normando.dev/)** | Multimodal visual inspection, document OCR & structured schema extraction (FastAPI, Next.js, Azure OpenAI). |
+| **02** | 💬 **[Support Bot](https://support.normando.dev/)** | Multilingual conversational assistant with NLP enrichment & intent classification (Azure AI Foundry, Language Services). |
+| **03** | 🎨 **[Prompt Studio](https://studio.normando.dev/)** | Interactive workspace for prompt engineering, few-shot tuning, model evaluation, and latency benchmarking. |
+| **04** | 📚 **[RAG Engine](https://rag.normando.dev/)** | Retrieval-Augmented Generation pipeline with semantic chunking, vector embeddings, and hybrid citation retrieval. |
+| **05** | 🤖 **[Agentic AI](https://agentic.normando.dev/)** | Multi-step autonomous agent workflows leveraging dynamic tool-calling, reflection loops, and stateful memory. |
+| **06** | 💼 **[AI Workspace](https://workspace.normando.dev/)** | Collaborative productivity workspace integrating LLM-assisted analysis, code review, and project synthesis. |
+| **07** | 📄 **[Brief Generator](https://brief-generator.normando.dev/)** | Automated synthesis engine transforming unstructured inputs into verified regulatory, engineering, and executive briefs. |
+
+---
 
 ## What I do
 
-- Build scalable frontend applications with **Angular, React, Next.js, and TypeScript**
-- Create accessible interfaces with **WCAG, keyboard navigation, and screen readers** in mind
-- Work with automated testing using **Playwright, Cypress, Jest, and Jasmine**
-- Develop Python APIs with **FastAPI**
-- Integrate applications with **Azure OpenAI, Azure AI Foundry, and Azure AI Language**
-- Experiment with local models and privacy-friendly AI workflows using **Ollama**
+- **AI Platform & Backend Engineering:** Architect modular backends using **Python 3.13, FastAPI, and Clean Architecture**, with decoupled provider abstractions, exponential backoff retries, and strict schema validation.
+- **Trustworthy & Compliant AI:** Design tamper-evident audit trails with **cryptographic SHA-256 hash chaining** and automated, real-time secret/PII redaction before prompts hit external or local models.
+- **Scalable Frontend Applications:** Build accessible, high-performance web applications with **Next.js, React, Angular, and TypeScript**.
+- **Human-in-the-Loop Workflows:** Implement deterministic state machines and review interfaces that empower human oversight over AI decisions (aligning with EU AI Act principles).
+- **Testing & Quality Assurance:** Enforce strict software correctness with **Pytest, Playwright, Cypress, and Jest**, maintaining high-coverage, deterministic CI/CD pipelines.
 
-## What I'm currently exploring
+---
 
-I'm following a hands-on AI engineering roadmap, building one practical application at a time—from multimodal image analysis and Structured Outputs to knowledge-base assistants, NLP enrichment, and agent-based workflows.
+## 🛡️ Enterprise & Platform Focus
 
-A couple of recent projects:
+Beyond individual applications, I focus on the hard engineering problems of running AI in production:
+- **Tamper-Evident Record-Keeping:** Immutable append-only audit ledgers for high-risk AI decision pipelines.
+- **Privacy & Sovereignty:** Running local, offline models (Ollama, vLLM) and enforcing zero-leakage data pipelines.
+- **Deterministic Evaluation:** Ground-truth benchmarking, statistical variance tracking, and CI release gates to prevent model hallucinations and regression.
 
-- 🔍 [Smart Inspector](https://ai-engineer-roadmap-lyart.vercel.app/) — image analysis, OCR, structured responses, Next.js, FastAPI, and Azure OpenAI
-- 💬 [Support Bot](https://suport-bot-hazel.vercel.app/) — multilingual knowledge-base Q&A with Azure AI Foundry and Azure AI Language
-
-My current focus is not just making AI demos work, but understanding how to turn them into reliable applications with clear contracts, authentication, validation, testing, and responsible data handling.
+---
 
 ## Toolbox
 
 ```text
-Frontend     Angular · React · Next.js · Vue · TypeScript · Tailwind CSS
-Backend      Python · FastAPI · Node.js · Java · REST APIs
-AI           Azure OpenAI · Azure AI Foundry · Azure AI Language · Ollama
-Quality      Playwright · Cypress · Jest · Jasmine · Accessibility testing
-Workflow     Git · CI/CD · Docker · Azure · Vercel
-```
-
-## A little beyond code
-
-I speak **Portuguese, English, and German**. When I am not coding, you will probably find me painting, carving wood, or training capoeira.
-
-Feel free to explore my repositories and follow along as I keep building.
+Backend & Platform   Python 3.13 · FastAPI · Pydantic v2 · Clean Architecture · uv · REST APIs
+AI & Governance      LLM Provider Abstraction · Azure OpenAI · Ollama · RAG · SHA-256 Hash Chaining · Redaction
+Frontend Systems     Next.js · React · Angular · TypeScript · Tailwind CSS · Design Systems
+Quality & Testing    Pytest · Playwright · Cypress · Jest · Accessibility (WCAG 2.1 AA)
+Workflow & DevOps    Git · GitHub Actions CI/CD · Docker · Linux · Shape-Up Methodology
